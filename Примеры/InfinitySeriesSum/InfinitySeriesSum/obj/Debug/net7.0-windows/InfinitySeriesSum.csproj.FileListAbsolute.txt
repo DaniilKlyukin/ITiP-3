@@ -1,0 +1,17 @@
+F:\должность ст преп\InfinitySeriesSum\InfinitySeriesSum\bin\Debug\net7.0-windows\InfinitySeriesSum.exe
+F:\должность ст преп\InfinitySeriesSum\InfinitySeriesSum\bin\Debug\net7.0-windows\InfinitySeriesSum.deps.json
+F:\должность ст преп\InfinitySeriesSum\InfinitySeriesSum\bin\Debug\net7.0-windows\InfinitySeriesSum.runtimeconfig.json
+F:\должность ст преп\InfinitySeriesSum\InfinitySeriesSum\bin\Debug\net7.0-windows\InfinitySeriesSum.dll
+F:\должность ст преп\InfinitySeriesSum\InfinitySeriesSum\bin\Debug\net7.0-windows\InfinitySeriesSum.pdb
+F:\должность ст преп\InfinitySeriesSum\InfinitySeriesSum\obj\Debug\net7.0-windows\InfinitySeriesSum.csproj.AssemblyReference.cache
+F:\должность ст преп\InfinitySeriesSum\InfinitySeriesSum\obj\Debug\net7.0-windows\InfinitySeriesSum.Form1.resources
+F:\должность ст преп\InfinitySeriesSum\InfinitySeriesSum\obj\Debug\net7.0-windows\InfinitySeriesSum.csproj.GenerateResource.cache
+F:\должность ст преп\InfinitySeriesSum\InfinitySeriesSum\obj\Debug\net7.0-windows\InfinitySeriesSum.GeneratedMSBuildEditorConfig.editorconfig
+F:\должность ст преп\InfinitySeriesSum\InfinitySeriesSum\obj\Debug\net7.0-windows\InfinitySeriesSum.AssemblyInfoInputs.cache
+F:\должность ст преп\InfinitySeriesSum\InfinitySeriesSum\obj\Debug\net7.0-windows\InfinitySeriesSum.AssemblyInfo.cs
+F:\должность ст преп\InfinitySeriesSum\InfinitySeriesSum\obj\Debug\net7.0-windows\InfinitySeriesSum.csproj.CoreCompileInputs.cache
+F:\должность ст преп\InfinitySeriesSum\InfinitySeriesSum\obj\Debug\net7.0-windows\InfinitySeriesSum.dll
+F:\должность ст преп\InfinitySeriesSum\InfinitySeriesSum\obj\Debug\net7.0-windows\refint\InfinitySeriesSum.dll
+F:\должность ст преп\InfinitySeriesSum\InfinitySeriesSum\obj\Debug\net7.0-windows\InfinitySeriesSum.pdb
+F:\должность ст преп\InfinitySeriesSum\InfinitySeriesSum\obj\Debug\net7.0-windows\InfinitySeriesSum.genruntimeconfig.cache
+F:\должность ст преп\InfinitySeriesSum\InfinitySeriesSum\obj\Debug\net7.0-windows\ref\InfinitySeriesSum.dll
