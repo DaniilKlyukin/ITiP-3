@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestsExample", "UnitTestsExample.csproj", "{197F11D7-AD36-41A8-81BE-0A8CFF7B4C0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerEquationSolverTest", "..\IntegerEquationSolverTest\IntegerEquationSolverTest.csproj", "{6688A7CC-6BA3-4BC2-AF46-310BB99B6BAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{197F11D7-AD36-41A8-81BE-0A8CFF7B4C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{197F11D7-AD36-41A8-81BE-0A8CFF7B4C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{197F11D7-AD36-41A8-81BE-0A8CFF7B4C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{197F11D7-AD36-41A8-81BE-0A8CFF7B4C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6688A7CC-6BA3-4BC2-AF46-310BB99B6BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6688A7CC-6BA3-4BC2-AF46-310BB99B6BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6688A7CC-6BA3-4BC2-AF46-310BB99B6BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6688A7CC-6BA3-4BC2-AF46-310BB99B6BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08260B13-0472-4478-B3DB-80D867CA825E}
+	EndGlobalSection
+EndGlobal
