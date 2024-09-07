@@ -10,7 +10,7 @@
 
 ### **Для допуска к зачёту необходимо:**
  1. Пройти [игру по Гит](https://learngitbranching.js.org/?locale=ru_RU) Главы: Введение, Едем дальше, Push & Pull - удалённые репозитории в Git!
- 2. Зарегистрироваться в [GitHub](https://github.com/), скачать [Git](https://git-scm.com/downloads) и [GitHub Desktop](https://desktop.github.com/download/).
+ 2. Зарегистрироваться в [GitHub](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github), скачать [Git](https://git-scm.com/downloads) и [GitHub Desktop](https://desktop.github.com/download/).
  3. Создать репозиторий и делать проект согласно лабораторным работам и практическим заданиям (в [1-й ЛР](https://github.com/DaniilKlyukin/ITiP-3/blob/master/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%201.docx) есть инструкции как и что делать).
  4. Проект рассчитан на 2 человек, работа должна вестись параллельно, желательно в отдельных ветках.
  5. Добавить преподавателя в коллабораторы к репозиторию.
