@@ -15,7 +15,7 @@ namespace AsyncIntegralCalculator
             var b = numericUpDown2.Value;
             var N = (long)numericUpDown3.Value;
 
-            var task = Task.Run(() => Integrate(a, b, N, UpdateProgress));
+            var task = IntegrateAsync(a, b, N, UpdateProgress);
 
             var integral = await task;
 
@@ -26,6 +26,20 @@ namespace AsyncIntegralCalculator
         {
             if (Math.Abs(pcnt - progressBar.Value) >= 1)
                 Invoke(() => progressBar.Value = (int)pcnt);
+        }
+
+        private Task<decimal> IntegrateAsync(decimal a, decimal b,
+            long N, Observer? observer = null)
+        {
+            var tcs = new TaskCompletionSource<decimal>();
+
+            var integralTask = Task.Run(() =>
+            {
+                var integral = Integrate(a, b, N, observer);
+                tcs.SetResult(integral);
+            });
+
+            return tcs.Task;
         }
 
         private decimal Integrate(
