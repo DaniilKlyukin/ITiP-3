@@ -174,33 +174,16 @@
 <h3>6. Асинхронное программирование</h3>
 <ul>
 	<li>
-		<p>
-			<strong>Принципы async/await</strong>
-		</p>
-		<ul>
-			<li>
-				<p>Возвращаемые типы (Task, Task<span class="ds-markdown-html">&lt;T&gt;</span>, ValueTask)</p>
-			</li>
-			<li>
-				<p>Обработка исключений в асинхронных методах</p>
-			</li>
-			<li>
-				<p>ConfigureAwait и контекст синхронизации</p>
-			</li>
-		</ul>
+		<p><strong>async/await</strong></p>
 	</li>
 	<li>
-		<p>
-			<strong>Паттерны</strong>
-		</p>
-		<ul>
-			<li>
-				<p>Ожидание нескольких задач (WhenAll/WhenAny)</p>
-			</li>
-			<li>
-				<p>Троттлинг и бэтчинг запросов</p>
-			</li>
-		</ul>
+		<p><strong>Обработка исключений в асинхронных методах</strong></p>
+	</li>
+	<li>
+		<p><strong>ConfigureAwait и контекст синхронизации</strong></p>
+	</li>
+	<li>
+		<p><strong>Ожидание нескольких задач (WhenAll/WhenAny)</strong></p>
 	</li>
 </ul>
 <h3>7. Работа с базами данных</h3>
