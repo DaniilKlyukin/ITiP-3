@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoEngine", "GeoEngine\GeoEngine.csproj", "{B687AB37-7628-43F8-AA76-9B06EE8A74E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoEngine.Tests", "GeoEngine.Tests\GeoEngine.Tests.csproj", "{1912E3A4-CB19-44D8-BB64-89AB2AE01419}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B687AB37-7628-43F8-AA76-9B06EE8A74E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B687AB37-7628-43F8-AA76-9B06EE8A74E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B687AB37-7628-43F8-AA76-9B06EE8A74E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B687AB37-7628-43F8-AA76-9B06EE8A74E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1912E3A4-CB19-44D8-BB64-89AB2AE01419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1912E3A4-CB19-44D8-BB64-89AB2AE01419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1912E3A4-CB19-44D8-BB64-89AB2AE01419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1912E3A4-CB19-44D8-BB64-89AB2AE01419}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC0B078B-C454-4ED4-9A97-4DE4A3022982}
+	EndGlobalSection
+EndGlobal
