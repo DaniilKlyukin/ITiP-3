@@ -1,0 +1,12 @@
+F:\должность ст преп\ИТиП 2 сем\Лабораторные\Лабораторная работа 2\ProductsLibrary\ProductsLibrary\bin\Debug\net9.0\ProductsLibrary.deps.json
+F:\должность ст преп\ИТиП 2 сем\Лабораторные\Лабораторная работа 2\ProductsLibrary\ProductsLibrary\bin\Debug\net9.0\ProductsLibrary.dll
+F:\должность ст преп\ИТиП 2 сем\Лабораторные\Лабораторная работа 2\ProductsLibrary\ProductsLibrary\bin\Debug\net9.0\ProductsLibrary.pdb
+F:\должность ст преп\ИТиП 2 сем\Лабораторные\Лабораторная работа 2\ProductsLibrary\ProductsLibrary\obj\Debug\net9.0\ProductsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\должность ст преп\ИТиП 2 сем\Лабораторные\Лабораторная работа 2\ProductsLibrary\ProductsLibrary\obj\Debug\net9.0\ProductsLibrary.AssemblyInfoInputs.cache
+F:\должность ст преп\ИТиП 2 сем\Лабораторные\Лабораторная работа 2\ProductsLibrary\ProductsLibrary\obj\Debug\net9.0\ProductsLibrary.AssemblyInfo.cs
+F:\должность ст преп\ИТиП 2 сем\Лабораторные\Лабораторная работа 2\ProductsLibrary\ProductsLibrary\obj\Debug\net9.0\ProductsLibrary.csproj.CoreCompileInputs.cache
+F:\должность ст преп\ИТиП 2 сем\Лабораторные\Лабораторная работа 2\ProductsLibrary\ProductsLibrary\obj\Debug\net9.0\ProductsLibrary.sourcelink.json
+F:\должность ст преп\ИТиП 2 сем\Лабораторные\Лабораторная работа 2\ProductsLibrary\ProductsLibrary\obj\Debug\net9.0\ProductsLibrary.dll
+F:\должность ст преп\ИТиП 2 сем\Лабораторные\Лабораторная работа 2\ProductsLibrary\ProductsLibrary\obj\Debug\net9.0\refint\ProductsLibrary.dll
+F:\должность ст преп\ИТиП 2 сем\Лабораторные\Лабораторная работа 2\ProductsLibrary\ProductsLibrary\obj\Debug\net9.0\ProductsLibrary.pdb
+F:\должность ст преп\ИТиП 2 сем\Лабораторные\Лабораторная работа 2\ProductsLibrary\ProductsLibrary\obj\Debug\net9.0\ref\ProductsLibrary.dll

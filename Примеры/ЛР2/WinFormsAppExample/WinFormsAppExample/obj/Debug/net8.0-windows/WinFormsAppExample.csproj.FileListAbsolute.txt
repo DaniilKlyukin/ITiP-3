@@ -1,0 +1,17 @@
+F:\должность ст преп\ИТиП 2 сем\Примеры\ЛР2\WinFormsAppExample\WinFormsAppExample\bin\Debug\net8.0-windows\WinFormsAppExample.exe
+F:\должность ст преп\ИТиП 2 сем\Примеры\ЛР2\WinFormsAppExample\WinFormsAppExample\bin\Debug\net8.0-windows\WinFormsAppExample.deps.json
+F:\должность ст преп\ИТиП 2 сем\Примеры\ЛР2\WinFormsAppExample\WinFormsAppExample\bin\Debug\net8.0-windows\WinFormsAppExample.runtimeconfig.json
+F:\должность ст преп\ИТиП 2 сем\Примеры\ЛР2\WinFormsAppExample\WinFormsAppExample\bin\Debug\net8.0-windows\WinFormsAppExample.dll
+F:\должность ст преп\ИТиП 2 сем\Примеры\ЛР2\WinFormsAppExample\WinFormsAppExample\bin\Debug\net8.0-windows\WinFormsAppExample.pdb
+F:\должность ст преп\ИТиП 2 сем\Примеры\ЛР2\WinFormsAppExample\WinFormsAppExample\obj\Debug\net8.0-windows\WinFormsAppExample.FigureForm.resources
+F:\должность ст преп\ИТиП 2 сем\Примеры\ЛР2\WinFormsAppExample\WinFormsAppExample\obj\Debug\net8.0-windows\WinFormsAppExample.MainForm.resources
+F:\должность ст преп\ИТиП 2 сем\Примеры\ЛР2\WinFormsAppExample\WinFormsAppExample\obj\Debug\net8.0-windows\WinFormsAppExample.csproj.GenerateResource.cache
+F:\должность ст преп\ИТиП 2 сем\Примеры\ЛР2\WinFormsAppExample\WinFormsAppExample\obj\Debug\net8.0-windows\WinFormsAppExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\должность ст преп\ИТиП 2 сем\Примеры\ЛР2\WinFormsAppExample\WinFormsAppExample\obj\Debug\net8.0-windows\WinFormsAppExample.AssemblyInfoInputs.cache
+F:\должность ст преп\ИТиП 2 сем\Примеры\ЛР2\WinFormsAppExample\WinFormsAppExample\obj\Debug\net8.0-windows\WinFormsAppExample.AssemblyInfo.cs
+F:\должность ст преп\ИТиП 2 сем\Примеры\ЛР2\WinFormsAppExample\WinFormsAppExample\obj\Debug\net8.0-windows\WinFormsAppExample.csproj.CoreCompileInputs.cache
+F:\должность ст преп\ИТиП 2 сем\Примеры\ЛР2\WinFormsAppExample\WinFormsAppExample\obj\Debug\net8.0-windows\WinFormsAppExample.dll
+F:\должность ст преп\ИТиП 2 сем\Примеры\ЛР2\WinFormsAppExample\WinFormsAppExample\obj\Debug\net8.0-windows\refint\WinFormsAppExample.dll
+F:\должность ст преп\ИТиП 2 сем\Примеры\ЛР2\WinFormsAppExample\WinFormsAppExample\obj\Debug\net8.0-windows\WinFormsAppExample.pdb
+F:\должность ст преп\ИТиП 2 сем\Примеры\ЛР2\WinFormsAppExample\WinFormsAppExample\obj\Debug\net8.0-windows\WinFormsAppExample.genruntimeconfig.cache
+F:\должность ст преп\ИТиП 2 сем\Примеры\ЛР2\WinFormsAppExample\WinFormsAppExample\obj\Debug\net8.0-windows\ref\WinFormsAppExample.dll

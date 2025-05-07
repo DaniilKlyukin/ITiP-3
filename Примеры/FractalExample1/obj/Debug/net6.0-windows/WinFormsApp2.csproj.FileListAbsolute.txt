@@ -1,0 +1,88 @@
+H:\должность ассистента\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+H:\должность ассистента\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+H:\должность ассистента\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+H:\должность ассистента\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+H:\должность ассистента\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+H:\должность ассистента\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+H:\должность ассистента\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+H:\должность ассистента\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+H:\должность ассистента\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+H:\должность ассистента\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+H:\должность ассистента\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+H:\должность ассистента\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+H:\должность ассистента\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+H:\должность ассистента\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+H:\должность ассистента\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+H:\должность ассистента\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+H:\должность ассистента\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
+D:\должность ассистента\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+D:\должность ассистента\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+D:\должность ассистента\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+D:\должность ассистента\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+D:\должность ассистента\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+D:\должность ассистента\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+D:\должность ассистента\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+D:\должность ассистента\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\должность ассистента\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+D:\должность ассистента\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+D:\должность ассистента\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+D:\должность ассистента\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+D:\должность ассистента\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+D:\должность ассистента\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+D:\должность ассистента\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+D:\должность ассистента\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
+D:\должность ассистента\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.MainForm.resources
+D:\должность ассистента\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.PropertiesForm.resources
+D:\должность ассистента\FractalExample\bin\Debug\net6.0-windows\WinFormsApp2.exe
+D:\должность ассистента\FractalExample\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+D:\должность ассистента\FractalExample\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+D:\должность ассистента\FractalExample\bin\Debug\net6.0-windows\WinFormsApp2.dll
+D:\должность ассистента\FractalExample\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+D:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+D:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.MainForm.resources
+D:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.PropertiesForm.resources
+D:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+D:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+D:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+D:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+D:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.dll
+D:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+D:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+D:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+D:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
+H:\должность ассистента\FractalExample\bin\Debug\net6.0-windows\WinFormsApp2.exe
+H:\должность ассистента\FractalExample\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+H:\должность ассистента\FractalExample\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+H:\должность ассистента\FractalExample\bin\Debug\net6.0-windows\WinFormsApp2.dll
+H:\должность ассистента\FractalExample\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+H:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+H:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.MainForm.resources
+H:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.PropertiesForm.resources
+H:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+H:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+H:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+H:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+H:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+H:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.dll
+H:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+H:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+H:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+H:\должность ассистента\FractalExample\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalExample\bin\Debug\net6.0-windows\WinFormsApp2.exe
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalExample\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalExample\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalExample\bin\Debug\net6.0-windows\WinFormsApp2.dll
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalExample\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.MainForm.resources
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.PropertiesForm.resources
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.dll
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalExample\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalExample\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalExample\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll

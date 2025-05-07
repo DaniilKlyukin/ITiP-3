@@ -1,0 +1,53 @@
+H:\должность ассистента\AirplaneGame\bin\Debug\net6.0-windows\AirplaneGame.exe
+H:\должность ассистента\AirplaneGame\bin\Debug\net6.0-windows\AirplaneGame.deps.json
+H:\должность ассистента\AirplaneGame\bin\Debug\net6.0-windows\AirplaneGame.runtimeconfig.json
+H:\должность ассистента\AirplaneGame\bin\Debug\net6.0-windows\AirplaneGame.dll
+H:\должность ассистента\AirplaneGame\bin\Debug\net6.0-windows\AirplaneGame.pdb
+H:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.csproj.AssemblyReference.cache
+H:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.Resource.resources
+H:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.csproj.GenerateResource.cache
+H:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.GeneratedMSBuildEditorConfig.editorconfig
+H:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.AssemblyInfoInputs.cache
+H:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.AssemblyInfo.cs
+H:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.csproj.CoreCompileInputs.cache
+H:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.dll
+H:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\refint\AirplaneGame.dll
+H:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.pdb
+H:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.genruntimeconfig.cache
+H:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\ref\AirplaneGame.dll
+D:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.csproj.AssemblyReference.cache
+D:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.Resource.resources
+D:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.csproj.GenerateResource.cache
+D:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.AssemblyInfoInputs.cache
+D:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.AssemblyInfo.cs
+D:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.csproj.CoreCompileInputs.cache
+D:\должность ассистента\AirplaneGame\bin\Debug\net6.0-windows\AirplaneGame.exe
+D:\должность ассистента\AirplaneGame\bin\Debug\net6.0-windows\AirplaneGame.deps.json
+D:\должность ассистента\AirplaneGame\bin\Debug\net6.0-windows\AirplaneGame.runtimeconfig.json
+D:\должность ассистента\AirplaneGame\bin\Debug\net6.0-windows\AirplaneGame.dll
+D:\должность ассистента\AirplaneGame\bin\Debug\net6.0-windows\AirplaneGame.pdb
+D:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.dll
+D:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\refint\AirplaneGame.dll
+D:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.pdb
+D:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.genruntimeconfig.cache
+D:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\ref\AirplaneGame.dll
+D:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.GameForm.resources
+H:\должность ассистента\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.GameForm.resources
+H:\должность ст преп\ИТиП 2 сем\AirplaneGame\bin\Debug\net6.0-windows\AirplaneGame.exe
+H:\должность ст преп\ИТиП 2 сем\AirplaneGame\bin\Debug\net6.0-windows\AirplaneGame.deps.json
+H:\должность ст преп\ИТиП 2 сем\AirplaneGame\bin\Debug\net6.0-windows\AirplaneGame.runtimeconfig.json
+H:\должность ст преп\ИТиП 2 сем\AirplaneGame\bin\Debug\net6.0-windows\AirplaneGame.dll
+H:\должность ст преп\ИТиП 2 сем\AirplaneGame\bin\Debug\net6.0-windows\AirplaneGame.pdb
+H:\должность ст преп\ИТиП 2 сем\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.GameForm.resources
+H:\должность ст преп\ИТиП 2 сем\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.Resource.resources
+H:\должность ст преп\ИТиП 2 сем\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.csproj.GenerateResource.cache
+H:\должность ст преп\ИТиП 2 сем\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.GeneratedMSBuildEditorConfig.editorconfig
+H:\должность ст преп\ИТиП 2 сем\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.AssemblyInfoInputs.cache
+H:\должность ст преп\ИТиП 2 сем\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.AssemblyInfo.cs
+H:\должность ст преп\ИТиП 2 сем\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.csproj.CoreCompileInputs.cache
+H:\должность ст преп\ИТиП 2 сем\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.dll
+H:\должность ст преп\ИТиП 2 сем\AirplaneGame\obj\Debug\net6.0-windows\refint\AirplaneGame.dll
+H:\должность ст преп\ИТиП 2 сем\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.pdb
+H:\должность ст преп\ИТиП 2 сем\AirplaneGame\obj\Debug\net6.0-windows\AirplaneGame.genruntimeconfig.cache
+H:\должность ст преп\ИТиП 2 сем\AirplaneGame\obj\Debug\net6.0-windows\ref\AirplaneGame.dll

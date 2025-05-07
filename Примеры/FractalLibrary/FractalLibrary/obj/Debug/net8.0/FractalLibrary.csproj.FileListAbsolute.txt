@@ -1,0 +1,12 @@
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalLibrary\FractalLibrary\bin\Debug\net8.0\FractalLibrary.deps.json
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalLibrary\FractalLibrary\bin\Debug\net8.0\FractalLibrary.dll
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalLibrary\FractalLibrary\bin\Debug\net8.0\FractalLibrary.pdb
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalLibrary\FractalLibrary\obj\Debug\net8.0\FractalLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalLibrary\FractalLibrary\obj\Debug\net8.0\FractalLibrary.AssemblyInfoInputs.cache
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalLibrary\FractalLibrary\obj\Debug\net8.0\FractalLibrary.AssemblyInfo.cs
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalLibrary\FractalLibrary\obj\Debug\net8.0\FractalLibrary.csproj.CoreCompileInputs.cache
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalLibrary\FractalLibrary\obj\Debug\net8.0\FractalLibrary.sourcelink.json
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalLibrary\FractalLibrary\obj\Debug\net8.0\FractalLibrary.dll
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalLibrary\FractalLibrary\obj\Debug\net8.0\refint\FractalLibrary.dll
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalLibrary\FractalLibrary\obj\Debug\net8.0\FractalLibrary.pdb
+F:\должность ст преп\ИТиП 2 сем\Примеры\FractalLibrary\FractalLibrary\obj\Debug\net8.0\ref\FractalLibrary.dll

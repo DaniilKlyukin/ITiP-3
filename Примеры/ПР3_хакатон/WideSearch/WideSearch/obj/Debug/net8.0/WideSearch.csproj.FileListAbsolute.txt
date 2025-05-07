@@ -1,0 +1,28 @@
+C:\Users\Admin\Desktop\WideSearch\WideSearch\bin\Debug\net8.0\WideSearch.exe
+C:\Users\Admin\Desktop\WideSearch\WideSearch\bin\Debug\net8.0\WideSearch.deps.json
+C:\Users\Admin\Desktop\WideSearch\WideSearch\bin\Debug\net8.0\WideSearch.runtimeconfig.json
+C:\Users\Admin\Desktop\WideSearch\WideSearch\bin\Debug\net8.0\WideSearch.dll
+C:\Users\Admin\Desktop\WideSearch\WideSearch\bin\Debug\net8.0\WideSearch.pdb
+C:\Users\Admin\Desktop\WideSearch\WideSearch\obj\Debug\net8.0\WideSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\WideSearch\WideSearch\obj\Debug\net8.0\WideSearch.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\WideSearch\WideSearch\obj\Debug\net8.0\WideSearch.AssemblyInfo.cs
+C:\Users\Admin\Desktop\WideSearch\WideSearch\obj\Debug\net8.0\WideSearch.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WideSearch\WideSearch\obj\Debug\net8.0\WideSearch.dll
+C:\Users\Admin\Desktop\WideSearch\WideSearch\obj\Debug\net8.0\refint\WideSearch.dll
+C:\Users\Admin\Desktop\WideSearch\WideSearch\obj\Debug\net8.0\WideSearch.pdb
+C:\Users\Admin\Desktop\WideSearch\WideSearch\obj\Debug\net8.0\WideSearch.genruntimeconfig.cache
+C:\Users\Admin\Desktop\WideSearch\WideSearch\obj\Debug\net8.0\ref\WideSearch.dll
+Z:\E_Portal\!Бакалавры 2 семестр\ИТиП_Клюкин\Примеры\ПР3\WideSearch\WideSearch\bin\Debug\net8.0\WideSearch.exe
+Z:\E_Portal\!Бакалавры 2 семестр\ИТиП_Клюкин\Примеры\ПР3\WideSearch\WideSearch\bin\Debug\net8.0\WideSearch.deps.json
+Z:\E_Portal\!Бакалавры 2 семестр\ИТиП_Клюкин\Примеры\ПР3\WideSearch\WideSearch\bin\Debug\net8.0\WideSearch.runtimeconfig.json
+Z:\E_Portal\!Бакалавры 2 семестр\ИТиП_Клюкин\Примеры\ПР3\WideSearch\WideSearch\bin\Debug\net8.0\WideSearch.dll
+Z:\E_Portal\!Бакалавры 2 семестр\ИТиП_Клюкин\Примеры\ПР3\WideSearch\WideSearch\bin\Debug\net8.0\WideSearch.pdb
+Z:\E_Portal\!Бакалавры 2 семестр\ИТиП_Клюкин\Примеры\ПР3\WideSearch\WideSearch\obj\Debug\net8.0\WideSearch.GeneratedMSBuildEditorConfig.editorconfig
+Z:\E_Portal\!Бакалавры 2 семестр\ИТиП_Клюкин\Примеры\ПР3\WideSearch\WideSearch\obj\Debug\net8.0\WideSearch.AssemblyInfoInputs.cache
+Z:\E_Portal\!Бакалавры 2 семестр\ИТиП_Клюкин\Примеры\ПР3\WideSearch\WideSearch\obj\Debug\net8.0\WideSearch.AssemblyInfo.cs
+Z:\E_Portal\!Бакалавры 2 семестр\ИТиП_Клюкин\Примеры\ПР3\WideSearch\WideSearch\obj\Debug\net8.0\WideSearch.csproj.CoreCompileInputs.cache
+Z:\E_Portal\!Бакалавры 2 семестр\ИТиП_Клюкин\Примеры\ПР3\WideSearch\WideSearch\obj\Debug\net8.0\WideSearch.dll
+Z:\E_Portal\!Бакалавры 2 семестр\ИТиП_Клюкин\Примеры\ПР3\WideSearch\WideSearch\obj\Debug\net8.0\refint\WideSearch.dll
+Z:\E_Portal\!Бакалавры 2 семестр\ИТиП_Клюкин\Примеры\ПР3\WideSearch\WideSearch\obj\Debug\net8.0\WideSearch.pdb
+Z:\E_Portal\!Бакалавры 2 семестр\ИТиП_Клюкин\Примеры\ПР3\WideSearch\WideSearch\obj\Debug\net8.0\WideSearch.genruntimeconfig.cache
+Z:\E_Portal\!Бакалавры 2 семестр\ИТиП_Клюкин\Примеры\ПР3\WideSearch\WideSearch\obj\Debug\net8.0\ref\WideSearch.dll

@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u041F\u0440\u043E\u0433\u0430 \u0423\u043B\u0443\u0447\u0448\u0435\u043D\u043D\u0430\u044F\\\u0418\u0422\u0438\u041F 3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\ProductsLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8368B034-0D88-4C1A-8870-0E3EAD23F420}|ConsoleApp1\\ConsoleApp1.csproj|f:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u043F\u0440\u043E\u0433\u0430 \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u043D\u0430\u044F\\\u0438\u0442\u0438\u043F 3 \u0441\u0435\u043C\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\productslibrary\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8368B034-0D88-4C1A-8870-0E3EAD23F420}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0305E7A-9C09-45F3-97E9-D57EA2F29304}|ProductsLibrary\\ProductsLibrary.csproj|f:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u043F\u0440\u043E\u0433\u0430 \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u043D\u0430\u044F\\\u0438\u0442\u0438\u043F 3 \u0441\u0435\u043C\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\productslibrary\\productslibrary\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0305E7A-9C09-45F3-97E9-D57EA2F29304}|ProductsLibrary\\ProductsLibrary.csproj|solutionrelative:productslibrary\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0305E7A-9C09-45F3-97E9-D57EA2F29304}|ProductsLibrary\\ProductsLibrary.csproj|f:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u043F\u0440\u043E\u0433\u0430 \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u043D\u0430\u044F\\\u0438\u0442\u0438\u043F 3 \u0441\u0435\u043C\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\productslibrary\\productslibrary\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0305E7A-9C09-45F3-97E9-D57EA2F29304}|ProductsLibrary\\ProductsLibrary.csproj|solutionrelative:productslibrary\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0305E7A-9C09-45F3-97E9-D57EA2F29304}|ProductsLibrary\\ProductsLibrary.csproj|f:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u043F\u0440\u043E\u0433\u0430 \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u043D\u0430\u044F\\\u0438\u0442\u0438\u043F 3 \u0441\u0435\u043C\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\productslibrary\\productslibrary\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0305E7A-9C09-45F3-97E9-D57EA2F29304}|ProductsLibrary\\ProductsLibrary.csproj|solutionrelative:productslibrary\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0305E7A-9C09-45F3-97E9-D57EA2F29304}|ProductsLibrary\\ProductsLibrary.csproj|f:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u043F\u0440\u043E\u0433\u0430 \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u043D\u0430\u044F\\\u0438\u0442\u0438\u043F 3 \u0441\u0435\u043C\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\productslibrary\\productslibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0305E7A-9C09-45F3-97E9-D57EA2F29304}|ProductsLibrary\\ProductsLibrary.csproj|solutionrelative:productslibrary\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u041F\u0440\u043E\u0433\u0430 \u0423\u043B\u0443\u0447\u0448\u0435\u043D\u043D\u0430\u044F\\\u0418\u0422\u0438\u041F 3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\ProductsLibrary\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "F:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u041F\u0440\u043E\u0433\u0430 \u0423\u043B\u0443\u0447\u0448\u0435\u043D\u043D\u0430\u044F\\\u0418\u0422\u0438\u041F 3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\ProductsLibrary\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAowEgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:42:40.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "F:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u041F\u0440\u043E\u0433\u0430 \u0423\u043B\u0443\u0447\u0448\u0435\u043D\u043D\u0430\u044F\\\u0418\u0422\u0438\u041F 3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\ProductsLibrary\\ProductsLibrary\\Order.cs",
+              "RelativeDocumentMoniker": "ProductsLibrary\\Order.cs",
+              "ToolTip": "F:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u041F\u0440\u043E\u0433\u0430 \u0423\u043B\u0443\u0447\u0448\u0435\u043D\u043D\u0430\u044F\\\u0418\u0422\u0438\u041F 3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\ProductsLibrary\\ProductsLibrary\\Order.cs",
+              "RelativeToolTip": "ProductsLibrary\\Order.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAowHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:47:21.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u041F\u0440\u043E\u0433\u0430 \u0423\u043B\u0443\u0447\u0448\u0435\u043D\u043D\u0430\u044F\\\u0418\u0422\u0438\u041F 3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\ProductsLibrary\\ProductsLibrary\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsLibrary\\Product.cs",
+              "ToolTip": "F:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u041F\u0440\u043E\u0433\u0430 \u0423\u043B\u0443\u0447\u0448\u0435\u043D\u043D\u0430\u044F\\\u0418\u0422\u0438\u041F 3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\ProductsLibrary\\ProductsLibrary\\Product.cs",
+              "RelativeToolTip": "ProductsLibrary\\Product.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:46:29.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "F:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u041F\u0440\u043E\u0433\u0430 \u0423\u043B\u0443\u0447\u0448\u0435\u043D\u043D\u0430\u044F\\\u0418\u0422\u0438\u041F 3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\ProductsLibrary\\ProductsLibrary\\Customer.cs",
+              "RelativeDocumentMoniker": "ProductsLibrary\\Customer.cs",
+              "ToolTip": "F:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u041F\u0440\u043E\u0433\u0430 \u0423\u043B\u0443\u0447\u0448\u0435\u043D\u043D\u0430\u044F\\\u0418\u0422\u0438\u041F 3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\ProductsLibrary\\ProductsLibrary\\Customer.cs",
+              "RelativeToolTip": "ProductsLibrary\\Customer.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:45:39.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "F:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u041F\u0440\u043E\u0433\u0430 \u0423\u043B\u0443\u0447\u0448\u0435\u043D\u043D\u0430\u044F\\\u0418\u0422\u0438\u041F 3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\ProductsLibrary\\ProductsLibrary\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "ProductsLibrary\\OrderStatus.cs",
+              "ToolTip": "F:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u041F\u0440\u043E\u0433\u0430 \u0423\u043B\u0443\u0447\u0448\u0435\u043D\u043D\u0430\u044F\\\u0418\u0422\u0438\u041F 3 \u0441\u0435\u043C\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430\u044F \u0440\u0430\u0431\u043E\u0442\u0430 2\\ProductsLibrary\\ProductsLibrary\\OrderStatus.cs",
+              "RelativeToolTip": "ProductsLibrary\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T06:39:02.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

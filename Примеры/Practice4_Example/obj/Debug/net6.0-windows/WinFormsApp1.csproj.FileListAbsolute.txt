@@ -1,0 +1,105 @@
+D:\должность ассистента\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\должность ассистента\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\должность ассистента\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\должность ассистента\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\должность ассистента\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\должность ассистента\WinFormsApp1\bin\Debug\net6.0-windows\AirplaneGame.dll
+D:\должность ассистента\WinFormsApp1\bin\Debug\net6.0-windows\AirplaneGame.pdb
+D:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+D:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+H:\должность ассистента\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+H:\должность ассистента\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+H:\должность ассистента\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+H:\должность ассистента\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+H:\должность ассистента\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+H:\должность ассистента\WinFormsApp1\bin\Debug\net6.0-windows\AirplaneGame.dll
+H:\должность ассистента\WinFormsApp1\bin\Debug\net6.0-windows\AirplaneGame.pdb
+H:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+H:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+H:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+H:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+H:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+H:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+H:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+H:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+H:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+H:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+H:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+H:\должность ассистента\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\должность ассистента\Practice4_Example\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\должность ассистента\Practice4_Example\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\должность ассистента\Practice4_Example\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\должность ассистента\Practice4_Example\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\должность ассистента\Practice4_Example\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\должность ассистента\Practice4_Example\bin\Debug\net6.0-windows\AirplaneGame.pdb
+D:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+D:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+H:\должность ассистента\Practice4_Example\bin\Debug\net6.0-windows\WinFormsApp1.exe
+H:\должность ассистента\Practice4_Example\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+H:\должность ассистента\Practice4_Example\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+H:\должность ассистента\Practice4_Example\bin\Debug\net6.0-windows\WinFormsApp1.dll
+H:\должность ассистента\Practice4_Example\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+H:\должность ассистента\Practice4_Example\bin\Debug\net6.0-windows\AirplaneGame.dll
+H:\должность ассистента\Practice4_Example\bin\Debug\net6.0-windows\AirplaneGame.pdb
+H:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+H:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+H:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+H:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+H:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+H:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+H:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+H:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.dll
+H:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+H:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+H:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+H:\должность ассистента\Practice4_Example\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+H:\должность ассистента\Practice4_Example\bin\Debug\net6.0-windows\AirplaneGame.deps.json
+H:\должность ассистента\Practice4_Example\bin\Debug\net6.0-windows\AirplaneGame.runtimeconfig.json
+H:\должность ассистента\Practice4_Example\bin\Debug\net6.0-windows\AirplaneGame.exe
+H:\должность ст преп\ИТиП 2 сем\Practice4_Example\bin\Debug\net6.0-windows\WinFormsApp1.exe
+H:\должность ст преп\ИТиП 2 сем\Practice4_Example\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+H:\должность ст преп\ИТиП 2 сем\Practice4_Example\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+H:\должность ст преп\ИТиП 2 сем\Practice4_Example\bin\Debug\net6.0-windows\WinFormsApp1.dll
+H:\должность ст преп\ИТиП 2 сем\Practice4_Example\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+H:\должность ст преп\ИТиП 2 сем\Practice4_Example\bin\Debug\net6.0-windows\AirplaneGame.pdb
+H:\должность ст преп\ИТиП 2 сем\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+H:\должность ст преп\ИТиП 2 сем\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+H:\должность ст преп\ИТиП 2 сем\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+H:\должность ст преп\ИТиП 2 сем\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\должность ст преп\ИТиП 2 сем\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+H:\должность ст преп\ИТиП 2 сем\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+H:\должность ст преп\ИТиП 2 сем\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+H:\должность ст преп\ИТиП 2 сем\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CopyComplete
+H:\должность ст преп\ИТиП 2 сем\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.dll
+H:\должность ст преп\ИТиП 2 сем\Practice4_Example\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+H:\должность ст преп\ИТиП 2 сем\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+H:\должность ст преп\ИТиП 2 сем\Practice4_Example\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+H:\должность ст преп\ИТиП 2 сем\Practice4_Example\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+H:\должность ст преп\ИТиП 2 сем\Practice4_Example\bin\Debug\net6.0-windows\AirplaneGame.deps.json
+H:\должность ст преп\ИТиП 2 сем\Practice4_Example\bin\Debug\net6.0-windows\AirplaneGame.runtimeconfig.json
+H:\должность ст преп\ИТиП 2 сем\Practice4_Example\bin\Debug\net6.0-windows\AirplaneGame.exe
+H:\должность ст преп\ИТиП 2 сем\Practice4_Example\bin\Debug\net6.0-windows\AirplaneGame.dll

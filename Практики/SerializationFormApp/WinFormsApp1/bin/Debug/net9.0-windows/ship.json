@@ -1,0 +1,7 @@
+{
+  "Name": "Мария",
+  "Type": "Пассажирский",
+  "DisplacementTons": 50.0,
+  "MaxSpeedKnots": 100.0,
+  "IsMilitary": true
+}

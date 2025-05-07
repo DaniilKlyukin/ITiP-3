@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u0418\u0422\u0438\u041F 2 \u0441\u0435\u043C\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\FractalLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{718AD7BC-A843-4858-8AE3-E7F01C306D2A}|FractalLibrary\\FractalLibrary.csproj|f:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u0438\u0442\u0438\u043F 2 \u0441\u0435\u043C\\\u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fractallibrary\\fractallibrary\\fractal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718AD7BC-A843-4858-8AE3-E7F01C306D2A}|FractalLibrary\\FractalLibrary.csproj|solutionrelative:fractallibrary\\fractal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fractal.cs",
+              "DocumentMoniker": "F:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u0418\u0422\u0438\u041F 2 \u0441\u0435\u043C\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\FractalLibrary\\FractalLibrary\\Fractal.cs",
+              "RelativeDocumentMoniker": "FractalLibrary\\Fractal.cs",
+              "ToolTip": "F:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u0418\u0422\u0438\u041F 2 \u0441\u0435\u043C\\\u041F\u0440\u0438\u043C\u0435\u0440\u044B\\FractalLibrary\\FractalLibrary\\Fractal.cs",
+              "RelativeToolTip": "FractalLibrary\\Fractal.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAuwE4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T14:36:35.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\anato\OneDrive\Рабочий стол\RegistrationFormApp\RegistrationFormApp\bin\Debug\net9.0-windows\RegistrationFormApp.exe
+C:\Users\anato\OneDrive\Рабочий стол\RegistrationFormApp\RegistrationFormApp\bin\Debug\net9.0-windows\RegistrationFormApp.deps.json
+C:\Users\anato\OneDrive\Рабочий стол\RegistrationFormApp\RegistrationFormApp\bin\Debug\net9.0-windows\RegistrationFormApp.runtimeconfig.json
+C:\Users\anato\OneDrive\Рабочий стол\RegistrationFormApp\RegistrationFormApp\bin\Debug\net9.0-windows\RegistrationFormApp.dll
+C:\Users\anato\OneDrive\Рабочий стол\RegistrationFormApp\RegistrationFormApp\bin\Debug\net9.0-windows\RegistrationFormApp.pdb
+C:\Users\anato\OneDrive\Рабочий стол\RegistrationFormApp\RegistrationFormApp\obj\Debug\net9.0-windows\RegistrationFormApp.Form1.resources
+C:\Users\anato\OneDrive\Рабочий стол\RegistrationFormApp\RegistrationFormApp\obj\Debug\net9.0-windows\RegistrationFormApp.csproj.GenerateResource.cache
+C:\Users\anato\OneDrive\Рабочий стол\RegistrationFormApp\RegistrationFormApp\obj\Debug\net9.0-windows\RegistrationFormApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anato\OneDrive\Рабочий стол\RegistrationFormApp\RegistrationFormApp\obj\Debug\net9.0-windows\RegistrationFormApp.AssemblyInfoInputs.cache
+C:\Users\anato\OneDrive\Рабочий стол\RegistrationFormApp\RegistrationFormApp\obj\Debug\net9.0-windows\RegistrationFormApp.AssemblyInfo.cs
+C:\Users\anato\OneDrive\Рабочий стол\RegistrationFormApp\RegistrationFormApp\obj\Debug\net9.0-windows\RegistrationFormApp.csproj.CoreCompileInputs.cache
+C:\Users\anato\OneDrive\Рабочий стол\RegistrationFormApp\RegistrationFormApp\obj\Debug\net9.0-windows\RegistrationFormApp.dll
+C:\Users\anato\OneDrive\Рабочий стол\RegistrationFormApp\RegistrationFormApp\obj\Debug\net9.0-windows\refint\RegistrationFormApp.dll
+C:\Users\anato\OneDrive\Рабочий стол\RegistrationFormApp\RegistrationFormApp\obj\Debug\net9.0-windows\RegistrationFormApp.pdb
+C:\Users\anato\OneDrive\Рабочий стол\RegistrationFormApp\RegistrationFormApp\obj\Debug\net9.0-windows\RegistrationFormApp.genruntimeconfig.cache
+C:\Users\anato\OneDrive\Рабочий стол\RegistrationFormApp\RegistrationFormApp\obj\Debug\net9.0-windows\ref\RegistrationFormApp.dll
