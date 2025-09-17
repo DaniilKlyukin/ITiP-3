@@ -1,26 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\anato\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WinFormsApp1\\",
+  "WorkspaceRootPath": "D:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u0418\u0422\u0438\u041F 3 \u0441\u0435\u043C\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\SerializationFormApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D965E458-497C-4F4F-BF09-A326C8408E87}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\anato\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D965E458-497C-4F4F-BF09-A326C8408E87}|WinFormsApp1\\WinFormsApp1.csproj|d:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u0438\u0442\u0438\u043F 3 \u0441\u0435\u043C\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\serializationformapp\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D965E458-497C-4F4F-BF09-A326C8408E87}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D965E458-497C-4F4F-BF09-A326C8408E87}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\anato\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\winformsapp1\\winformsapp1\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D965E458-497C-4F4F-BF09-A326C8408E87}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D965E458-497C-4F4F-BF09-A326C8408E87}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\anato\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\winformsapp1\\winformsapp1\\jsonserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D965E458-497C-4F4F-BF09-A326C8408E87}|WinFormsApp1\\WinFormsApp1.csproj|d:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u0438\u0442\u0438\u043F 3 \u0441\u0435\u043C\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\serializationformapp\\winformsapp1\\jsonserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D965E458-497C-4F4F-BF09-A326C8408E87}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\jsonserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D965E458-497C-4F4F-BF09-A326C8408E87}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\anato\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\winformsapp1\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D965E458-497C-4F4F-BF09-A326C8408E87}|WinFormsApp1\\WinFormsApp1.csproj|d:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u0438\u0442\u0438\u043F 3 \u0441\u0435\u043C\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\serializationformapp\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D965E458-497C-4F4F-BF09-A326C8408E87}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D965E458-497C-4F4F-BF09-A326C8408E87}|WinFormsApp1\\WinFormsApp1.csproj|c:\\users\\anato\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\winformsapp1\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D965E458-497C-4F4F-BF09-A326C8408E87}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D965E458-497C-4F4F-BF09-A326C8408E87}|WinFormsApp1\\WinFormsApp1.csproj|d:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u0438\u0442\u0438\u043F 3 \u0441\u0435\u043C\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\serializationformapp\\winformsapp1\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D965E458-497C-4F4F-BF09-A326C8408E87}|WinFormsApp1\\WinFormsApp1.csproj|solutionrelative:winformsapp1\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,41 +26,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\anato\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
-              "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
-              "ToolTip": "C:\\Users\\anato\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WinFormsApp1\\WinFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "WinFormsApp1\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T08:51:03.64Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
           "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\anato\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WinFormsApp1\\WinFormsApp1\\Program.cs",
+              "DocumentMoniker": "D:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u0418\u0422\u0438\u041F 3 \u0441\u0435\u043C\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\SerializationFormApp\\WinFormsApp1\\Program.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\anato\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WinFormsApp1\\WinFormsApp1\\Program.cs",
+              "ToolTip": "D:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u0418\u0422\u0438\u041F 3 \u0441\u0435\u043C\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\SerializationFormApp\\WinFormsApp1\\Program.cs",
               "RelativeToolTip": "WinFormsApp1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,11 +43,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "JsonSerializer.cs",
-              "DocumentMoniker": "C:\\Users\\anato\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WinFormsApp1\\WinFormsApp1\\JsonSerializer.cs",
+              "DocumentMoniker": "D:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u0418\u0422\u0438\u041F 3 \u0441\u0435\u043C\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\SerializationFormApp\\WinFormsApp1\\JsonSerializer.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\JsonSerializer.cs",
-              "ToolTip": "C:\\Users\\anato\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WinFormsApp1\\WinFormsApp1\\JsonSerializer.cs",
+              "ToolTip": "D:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u0418\u0422\u0438\u041F 3 \u0441\u0435\u043C\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\SerializationFormApp\\WinFormsApp1\\JsonSerializer.cs",
               "RelativeToolTip": "WinFormsApp1\\JsonSerializer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -86,26 +56,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Ship.cs",
-              "DocumentMoniker": "C:\\Users\\anato\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WinFormsApp1\\WinFormsApp1\\Ship.cs",
+              "DocumentMoniker": "D:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u0418\u0422\u0438\u041F 3 \u0441\u0435\u043C\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\SerializationFormApp\\WinFormsApp1\\Ship.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Ship.cs",
-              "ToolTip": "C:\\Users\\anato\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WinFormsApp1\\WinFormsApp1\\Ship.cs",
+              "ToolTip": "D:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u0418\u0422\u0438\u041F 3 \u0441\u0435\u043C\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\SerializationFormApp\\WinFormsApp1\\Ship.cs",
               "RelativeToolTip": "WinFormsApp1\\Ship.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T09:04:47.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T09:04:47.235Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\anato\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "DocumentMoniker": "D:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u0418\u0422\u0438\u041F 3 \u0441\u0435\u043C\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\SerializationFormApp\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WinFormsApp1\\Form1.cs",
-              "ToolTip": "C:\\Users\\anato\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\WinFormsApp1\\WinFormsApp1\\Form1.cs",
+              "ToolTip": "D:\\\u0434\u043E\u043B\u0436\u043D\u043E\u0441\u0442\u044C \u0441\u0442 \u043F\u0440\u0435\u043F\\\u0418\u0422\u0438\u041F 3 \u0441\u0435\u043C\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0438\\SerializationFormApp\\WinFormsApp1\\Form1.cs",
               "RelativeToolTip": "WinFormsApp1\\Form1.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBIAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-27T08:51:20.172Z",
               "EditorCaption": ""
