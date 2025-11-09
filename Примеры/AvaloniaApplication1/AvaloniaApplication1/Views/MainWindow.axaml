@@ -40,6 +40,11 @@
                 Command="{Binding ResetCommand}"
                 Width="100" Height="30"
                 FontSize="12"/>
+
+        <Button Content="Открыть окно" 
+                Command="{Binding WindowCommand}"
+                Width="100" Height="30"
+                FontSize="12"/>
         
     </StackPanel>
 

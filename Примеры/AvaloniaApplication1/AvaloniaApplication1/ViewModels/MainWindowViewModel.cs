@@ -1,4 +1,6 @@
-﻿using ReactiveUI;
+﻿using Avalonia.Controls.ApplicationLifetimes;
+using ReactiveUI;
+using System;
 using System.Reactive;
 using System.Reactive.Linq;
 
@@ -22,6 +24,9 @@ public class MainWindowViewModel : ReactiveObject
         // Команда сброса активна только когда счетчик > 0
         ResetCommand = ReactiveCommand.Create(ResetCount,
             this.WhenAnyValue(x => x.Count).Select(count => count > 0));
+
+        // Команда открытия нового окна
+        WindowCommand = ReactiveCommand.Create(OpenWindow);
     }
 
     // Reactive свойства
@@ -44,6 +49,7 @@ public class MainWindowViewModel : ReactiveObject
     // Команды
     public ReactiveCommand<Unit, Unit> IncrementCommand { get; }
     public ReactiveCommand<Unit, Unit> ResetCommand { get; }
+    public ReactiveCommand<Unit, Unit> WindowCommand { get; }
 
     private void IncrementCount()
     {
@@ -59,5 +65,22 @@ public class MainWindowViewModel : ReactiveObject
     {
         Count = 0;
         Message = "Счетчик сброшен! Давайте начнем снова.";
+    }
+
+    private void OpenWindow()
+    {
+        var vm = new SecondWindowViewModel();
+
+        var view = new SecondWindow
+        {
+            DataContext = vm
+        };
+
+        var parent = Avalonia.Application.Current?.ApplicationLifetime as IClassicDesktopStyleApplicationLifetime;
+
+        if (parent == null || parent.MainWindow == null)
+            throw new InvalidOperationException("Невозможно определить родительское окно");
+
+        view.ShowDialog(parent.MainWindow);
     }
 }
