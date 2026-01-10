@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.9.34728.123
+# Visual Studio Version 18
+VisualStudioVersion = 18.1.11312.151 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractalLibrary", "FractalLibrary\FractalLibrary.csproj", "{718AD7BC-A843-4858-8AE3-E7F01C306D2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FractalGUI", "FractalGUI\FractalGUI.csproj", "{B0C9E062-817F-482D-A444-6466E664B5EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{718AD7BC-A843-4858-8AE3-E7F01C306D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{718AD7BC-A843-4858-8AE3-E7F01C306D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{718AD7BC-A843-4858-8AE3-E7F01C306D2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0C9E062-817F-482D-A444-6466E664B5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0C9E062-817F-482D-A444-6466E664B5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0C9E062-817F-482D-A444-6466E664B5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0C9E062-817F-482D-A444-6466E664B5EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

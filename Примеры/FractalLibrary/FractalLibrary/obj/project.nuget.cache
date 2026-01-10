@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7Kkfw8zD/Ds=",
+  "dgSpecHash": "Bo+V+OK7EdQ=",
   "success": true,
-  "projectFilePath": "F:\\должность ст преп\\ИТиП 2 сем\\Примеры\\FractalLibrary\\FractalLibrary\\FractalLibrary.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\должность ст преп\\ИТиП 3 сем\\Примеры\\FractalLibrary\\FractalLibrary\\FractalLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anato\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

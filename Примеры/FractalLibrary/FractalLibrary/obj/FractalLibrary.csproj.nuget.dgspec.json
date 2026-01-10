@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\должность ст преп\\ИТиП 2 сем\\Примеры\\FractalLibrary\\FractalLibrary\\FractalLibrary.csproj": {}
+    "F:\\должность ст преп\\ИТиП 3 сем\\Примеры\\FractalLibrary\\FractalLibrary\\FractalLibrary.csproj": {}
   },
   "projects": {
-    "F:\\должность ст преп\\ИТиП 2 сем\\Примеры\\FractalLibrary\\FractalLibrary\\FractalLibrary.csproj": {
+    "F:\\должность ст преп\\ИТиП 3 сем\\Примеры\\FractalLibrary\\FractalLibrary\\FractalLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\должность ст преп\\ИТиП 2 сем\\Примеры\\FractalLibrary\\FractalLibrary\\FractalLibrary.csproj",
+        "projectUniqueName": "F:\\должность ст преп\\ИТиП 3 сем\\Примеры\\FractalLibrary\\FractalLibrary\\FractalLibrary.csproj",
         "projectName": "FractalLibrary",
-        "projectPath": "F:\\должность ст преп\\ИТиП 2 сем\\Примеры\\FractalLibrary\\FractalLibrary\\FractalLibrary.csproj",
+        "projectPath": "F:\\должность ст преп\\ИТиП 3 сем\\Примеры\\FractalLibrary\\FractalLibrary\\FractalLibrary.csproj",
         "packagesPath": "C:\\Users\\anato\\.nuget\\packages\\",
-        "outputPath": "F:\\должность ст преп\\ИТиП 2 сем\\Примеры\\FractalLibrary\\FractalLibrary\\obj\\",
+        "outputPath": "F:\\должность ст преп\\ИТиП 3 сем\\Примеры\\FractalLibrary\\FractalLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,11 +44,17 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -65,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

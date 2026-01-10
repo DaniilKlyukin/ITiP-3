@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FractalLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a74e97026a9349ca24fa43ca08da81b2f65786e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d685a46fdae48fd0038ab7cbbc718178a5c82fb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("FractalLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FractalLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,13 +1,7 @@
-﻿using System.Drawing;
-using System.Numerics;
-using System.Text;
-
-namespace FractalLibrary;
+﻿namespace FractalLibrary;
 
 public class Fractal
 {
-    public const double R_MIN = 0.01;
-
     /// <summary>
     /// Фрактал
     /// </summary>
@@ -26,6 +20,8 @@ public class Fractal
     }
 
     public int IterationsLimit { get; set; } = 100;
+
+    public double Tolerance { get; set; } = 1e-3;
 
     // Координата X центра комплексной области
     public double CenterX { get; }
@@ -49,9 +45,16 @@ public class Fractal
     /// Рассчитать значения (количество итераций) в каждой ячейке
     /// </summary>
     /// <returns></returns>
-    public int[,] Calculate()
+    public FractalRootsField Calculate()
     {
-        var values = new int[Rows, Columns];
+        var field = new RootInField[Rows, Columns];
+
+        var roots = new List<(Complex Root, int Id)>
+        {
+            (new Complex(1, 0), 0),
+            (new Complex(-0.5,Math.Sqrt(3)/2), 1),
+            (new Complex(-0.5,-Math.Sqrt(3)/2), 2)
+        };
 
         for (int i = 0; i < Rows; i++)
         {
@@ -62,20 +65,36 @@ public class Fractal
 
                 var z = new Complex(x, y);
 
-                var iterations = 0;
+                var founded = FindRoot(z, Tolerance, IterationsLimit);
 
-                while (z.Pow(3).Magnitude > R_MIN && iterations <= IterationsLimit)
-                {
-                    z -= f(z) / df(z);
+                var (root, id) = roots.MinBy(r => (r.Root - founded.Root).Magnitude);
 
-                    iterations++;
-                }
-
-                values[i, j] = iterations;
+                field[i, j] = new RootInField(founded, (root - founded.Root).Magnitude < Tolerance ? id : -1);
             }
         }
 
-        return values;
+        return new FractalRootsField(field, roots.Select(r => r.Root).ToArray());
+    }
+
+    public RootResult FindRoot(Complex z0, double tolerance, int iterationsLimit)
+    {
+        var z = new Complex(z0.Re, z0.Im);
+
+        var iterations = 0;
+
+        while (iterations <= IterationsLimit)
+        {
+            var delta = f(z) / df(z);
+
+            z -= delta;
+
+            if (delta.Magnitude < tolerance)
+                break;
+
+            iterations++;
+        }
+
+        return new RootResult(z, iterations);
     }
 
     private Complex f(Complex z) => z.Pow(3) - 1;
@@ -83,181 +102,8 @@ public class Fractal
     private Complex df(Complex z) => 3 * z.Pow(2);
 }
 
-public class Complex
-{
-    public double Re { get; set; } // Вещественная часть
-    public double Im { get; set; } // Мнимая часть
+public readonly record struct RootResult(Complex Root, int Iterations);
 
-    public double Magnitude => Math.Sqrt(Re * Re + Im * Im);
+public readonly record struct RootInField(RootResult RootResult, int RootId);
 
-    public Complex(double re = 0, double im = 0)
-    {
-        Re = re;
-        Im = im;
-    }
-
-    // Определяем оператор сложения для объектов типа Complex
-    public static Complex operator +(Complex c1, Complex c2)
-        => new(c1.Re + c2.Re, c1.Im + c2.Im);
-    // Определяем оператор вычитания для объектов типа Complex
-    public static Complex operator -(Complex c1, Complex c2)
-        => new(c1.Re - c2.Re, c1.Im - c2.Im);
-
-    // Определяем оператор сложения Complex и double
-    public static Complex operator +(Complex c, double d)
-        => new(c.Re + d, c.Im);
-    // Операции по умолчанию не коммутативны
-    public static Complex operator -(double d, Complex c)
-        => new(d - c.Re, c.Im);
-
-    public static Complex operator +(double d, Complex c)
-        => c + d;
-
-    public static Complex operator -(Complex c, double d)
-        => new(c.Re - d, c.Im);
-
-    public static Complex operator *(Complex c, double d)
-        => new(d * c.Re, d * c.Im);
-
-    public static Complex operator *(double d, Complex c)
-        => c * d;
-    public static Complex operator /(Complex c, double d)
-        => new(c.Re / d, c.Im / d);
-
-    public static Complex operator *(Complex c1, Complex c2)
-        => new(c1.Re * c2.Re - c1.Im * c2.Im,
-                        c1.Re * c2.Im + c1.Im * c2.Re);
-
-    public static Complex operator /(Complex c1, Complex c2)
-    {
-        var conjugate = c2.GetConjugate();
-
-        var c1New = c1 * conjugate;
-        var c2New = c2 * conjugate;
-
-        return c1New / c2New.Re;
-    }
-    // Сопряженное комплексное число
-    public Complex GetConjugate()
-        => new(Re, -Im);
-
-    // Неявное преобразование вещественного числа в комплексное
-    public static implicit operator Complex(double d)
-      => new(d, 0);
-
-    // Явное преобразование комплексного числа в вещественное с отбрасыванием мнимой части
-    public static explicit operator double(Complex c)
-      => c.Re;
-
-    public Complex Pow(int degree)
-    {
-        var current = new Complex(Re, Im);
-
-        for (int i = 1; i < degree; i++)
-        {
-            current *= this;
-        }
-
-        return current;
-    }
-
-    public override string ToString() // Для красивого вывода на экран
-    {
-        if (Re == 0 && Im == 0)
-            return "0";
-        var sb = new StringBuilder();
-        if (Re != 0) sb.Append(Re.ToString());
-        if (Im < 0)
-        {
-            if (Im == -1) sb.Append($"-i");
-            else sb.Append($"{Im}i");
-        }
-        else if (Im > 0)
-        {
-            if (Re != 0) sb.Append("+");
-            if (Im == 1) sb.Append($"i");
-            else sb.Append($"{Im}i");
-        }
-        return sb.ToString();
-    }
-}
-
-/// <summary>
-/// Класс для перевода сеточных значений ячеек в цвета
-/// </summary>
-public interface IPainter
-{
-    public Color[,] Paint(int[,] gridValues);
-}
-
-/// <summary>
-/// Класс для перевода сеточных значений ячеек в ЧБ цвета
-/// </summary>
-public class GrayScalePainter : IPainter
-{
-    public Color[,] Paint(int[,] gridValues)
-    {
-        var min = gridValues.Min();
-        var max = gridValues.Max();
-
-        var rows = gridValues.GetLength(0);
-        var columns = gridValues.GetLength(1);
-
-        var colors = new Color[rows, columns];
-
-        for (int i = 0; i < rows; i++)
-        {
-            for (int j = 0; j < columns; j++)
-            {
-                var norm = (gridValues[i, j] - min) / (max - min);
-
-                var colorValue = (int)(255.0 * norm);
-
-                colors[i, j] = Color.FromArgb(255, colorValue, colorValue, colorValue);
-            }
-        }
-
-        return colors;
-    }
-}
-
-public static class ArrayExtensions
-{
-    public static T Min<T>(this T[,] values) where T : INumber<T>
-    {
-        var rows = values.GetLength(0);
-        var columns = values.GetLength(1);
-
-        var min = values[0, 0];
-
-        for (int i = 0; i < rows; i++)
-        {
-            for (int j = 0; j < columns; j++)
-            {
-                if (values[i, j] < min)
-                    min = values[i, j];
-            }
-        }
-
-        return min;
-    }
-
-    public static T Max<T>(this T[,] values) where T : INumber<T>
-    {
-        var rows = values.GetLength(0);
-        var columns = values.GetLength(1);
-
-        var max = values[0, 0];
-
-        for (int i = 0; i < rows; i++)
-        {
-            for (int j = 0; j < columns; j++)
-            {
-                if (values[i, j] > max)
-                    max = values[i, j];
-            }
-        }
-
-        return max;
-    }
-}
+public readonly record struct FractalRootsField(RootInField[,] Field, Complex[] FoundRoots);
