@@ -121,22 +121,6 @@
                        Stretch="Uniform"
                        HorizontalAlignment="Center"
                        VerticalAlignment="Center">
-                    <!-- Текст при первом запуске -->
-                    <Image.Styles>
-                        <Style Selector="Image">
-                            <Setter Property="Opacity" Value="1"/>
-                            <Style.Animations>
-                                <Animation Duration="0:0:0.5">
-                                    <KeyFrame Cue="0%">
-                                        <Setter Property="Opacity" Value="0"/>
-                                    </KeyFrame>
-                                    <KeyFrame Cue="100%">
-                                        <Setter Property="Opacity" Value="1"/>
-                                    </KeyFrame>
-                                </Animation>
-                            </Style.Animations>
-                        </Style>
-                    </Image.Styles>
                 </Image>
                 
                 <!-- Подсказка при отсутствии изображения -->
