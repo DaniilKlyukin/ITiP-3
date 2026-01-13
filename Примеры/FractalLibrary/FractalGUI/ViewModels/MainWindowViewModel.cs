@@ -59,33 +59,29 @@ namespace FractalGUI.ViewModels
 
         public MainWindowViewModel()
         {
-            CalculateCommand = ReactiveCommand.CreateFromTask(
-                CalculateFractalAsync,
+            CalculateCommand = ReactiveCommand.Create(
+                CalculateFractal,
                 this.WhenAnyValue(x => x.IsCalculating).Select(isCalculating => !isCalculating)
             );
         }
 
-        private async Task CalculateFractalAsync()
+        private void CalculateFractal()
         {
             IsCalculating = true;
             Status = "Расчет фрактала...";
 
             try
             {
-                // Запускаем расчет в фоновом потоке
-                var fractalData = await Task.Run(() =>
+                var fractal = new Fractal(0, 0, 4, Resolution, Resolution)
                 {
-                    var fractal = new Fractal(0, 0, 4, Resolution, Resolution)
-                    {
-                        IterationsLimit = IterationsLimit,
-                        Tolerance = Tolerance
-                    };
+                    IterationsLimit = IterationsLimit,
+                    Tolerance = Tolerance
+                };
 
-                    return fractal.Calculate();
-                });
+                var fractalData = fractal.Calculate();
 
                 // Создаем изображение
-                await CreateImageFromAvaloniaColors(fractalData);
+                CreateImageFromAvaloniaColors(fractalData);
 
                 Status = "Готово!";
             }
@@ -99,51 +95,48 @@ namespace FractalGUI.ViewModels
             }
         }
 
-        private async Task CreateImageFromAvaloniaColors(FractalRootsField fractalData)
+        private void CreateImageFromAvaloniaColors(FractalRootsField fractalData)
         {
-            await Task.Run(() =>
+            // Используем наш painter
+            var painter = new SimplePainter();
+            var colors = painter.Paint(fractalData);
+
+            // Создаем WriteableBitmap
+            var bitmap = new WriteableBitmap(
+                new PixelSize(Resolution, Resolution),
+                new Vector(96, 96),
+                PixelFormat.Bgra8888,
+                AlphaFormat.Premul
+            );
+
+            // Подготавливаем массив пикселей
+            var pixelArray = new byte[Resolution * Resolution * 4];
+
+            int index = 0;
+            for (int y = 0; y < Resolution; y++)
             {
-                // Используем наш painter
-                var painter = new SimplePainter();
-                var colors = painter.Paint(fractalData);
-
-                // Создаем WriteableBitmap
-                var bitmap = new WriteableBitmap(
-                    new PixelSize(Resolution, Resolution),
-                    new Vector(96, 96),
-                    PixelFormat.Bgra8888,
-                    AlphaFormat.Premul
-                );
-
-                // Подготавливаем массив пикселей
-                var pixelArray = new byte[Resolution * Resolution * 4];
-
-                int index = 0;
-                for (int y = 0; y < Resolution; y++)
+                for (int x = 0; x < Resolution; x++)
                 {
-                    for (int x = 0; x < Resolution; x++)
-                    {
-                        var color = colors[y, x];
+                    var color = colors[y, x];
 
-                        // BGRA порядок для PixelFormat.Bgra8888
-                        pixelArray[index] = color.B;     // Blue
-                        pixelArray[index + 1] = color.G; // Green
-                        pixelArray[index + 2] = color.R; // Red
-                        pixelArray[index + 3] = color.A; // Alpha
+                    // BGRA порядок для PixelFormat.Bgra8888
+                    pixelArray[index] = color.B;     // Blue
+                    pixelArray[index + 1] = color.G; // Green
+                    pixelArray[index + 2] = color.R; // Red
+                    pixelArray[index + 3] = color.A; // Alpha
 
-                        index += 4;
-                    }
+                    index += 4;
                 }
+            }
 
-                // Копируем в bitmap (безопасно!)
-                using (var buffer = bitmap.Lock())
-                {
-                    System.Runtime.InteropServices.Marshal.Copy(
-                        pixelArray, 0, buffer.Address, pixelArray.Length);
-                }
+            // Копируем в bitmap (безопасно!)
+            using (var buffer = bitmap.Lock())
+            {
+                System.Runtime.InteropServices.Marshal.Copy(
+                    pixelArray, 0, buffer.Address, pixelArray.Length);
+            }
 
-                FractalImage = bitmap;
-            });
+            FractalImage = bitmap;
         }
     }
 }
